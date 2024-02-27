@@ -1,0 +1,15 @@
+{
+  "name": "async-workflow",
+  "version": "1.0.0",
+  "description": "- [ ] Sync vs Async: What is a callback? - [ ] How NodeJS works?   - [ ] Memory heap   - [ ] Call stack   - [ ] Eventloop   - [ ] Call back queue - [ ] Simple example",
+  "main": "1-syncVsAsync.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "request": "^2.88.2"
+  }
+}
