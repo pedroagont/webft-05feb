@@ -7,3 +7,29 @@ body {
   color: white;
   font-family: sans-serif;
 }
+
+header {
+  padding: 2em;
+}
+
+main {
+  width: 90%;
+  margin: 2em auto;
+}
+
+section.pokemon-search {
+  padding: 1em 0;
+}
+
+.search-result {
+  border: 10px solid white;
+  border-top-left-radius: 80px;
+  border-top-right-radius: 80px;
+  padding: 1em;
+
+  max-width: 300px;
+}
+
+.search-result img {
+  width: 100%;
+}
