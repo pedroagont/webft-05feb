@@ -91,7 +91,7 @@ $(document).ready(() => {
 
     todosData.push(content.value);
 
-    content.value = '';
+    $(content).val('');
 
     renderTodos();
   });
